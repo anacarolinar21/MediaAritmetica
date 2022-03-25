@@ -1,0 +1,2 @@
+# MediaAritmetica
+exercício etec
